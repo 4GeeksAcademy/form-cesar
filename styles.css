@@ -1,0 +1,13 @@
+.cardgeneral{
+    width:50%;
+    margin:auto;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.card-title{
+    background-color:lightpink;
+    border-radius:10px;
+    padding: 10px 0px 10px 20px;
+    margin-bottom: 30px;
+}
+
